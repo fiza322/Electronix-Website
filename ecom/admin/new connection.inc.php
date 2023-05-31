@@ -10,7 +10,7 @@ define('SERVER_PATH',$_SERVER['DOCUMENT_ROOT'].'/Electronix-Website/ecom/');
 
 //Edit the IP address (127.0.0.1) with the Public IP address of your EC2 instance
 
-define('SITE_PATH','http://18.143.247.27/Electronix-Website/ecom/');
+define('SITE_PATH','http://18.143.247.27/ccCode/ecom/');
 define('PRODUCT_IMAGE_SERVER_PATH',SERVER_PATH.'media/product/');
 define('PRODUCT_IMAGE_SITE_PATH',SITE_PATH.'media/product/');
 ?>
